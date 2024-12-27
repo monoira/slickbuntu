@@ -29,7 +29,8 @@ wget -qO- https://raw.githubusercontent.com/monoira/slickgn/main/gnome_settings.
 - Hide the trash from dash-to-dock.
 - Hide home directory on desktop.
 - Show apps from current workspace only.
-- Reduce size of desktop icons - they are way to big and ugly.
+- Reduce size of desktop icons to small since
+  large icons are way to big and ugly.
 - Etc.
 
 You can see what more it changes by reading the script itself at
