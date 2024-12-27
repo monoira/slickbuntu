@@ -15,7 +15,8 @@ slick gnome settings already configured.
 ## HOW
 
 Run this script in your terminal to change gnome's gsettings to make
-it prettier and more slick on Ubuntu.
+it prettier and more slick on Ubuntu. No cloning or downloads required.
+It just works.
 
 ```bash
 wget -qO- https://raw.githubusercontent.com/monoira/slickgn/main/gnome_settings.sh | bash
